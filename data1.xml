@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<data id="securities">
+<metadata>
+<columns>
+<column name="tradedate" type="date" bytes="10" max_size="0" />
+<column name="tradetime" type="time" bytes="10" max_size="0" />
+<column name="secid" type="string" bytes="36" max_size="0" />
+<column name="rate" type="double" />
+<column name="clearing" type="string" bytes="6" max_size="0" />
+</columns>
+</metadata>
+<rows>
+<row tradedate="2024-08-16" tradetime="13:45:00" secid="USD/RUB" rate="88.79600" clearing="pk" />
+<row tradedate="2024-08-15" tradetime="18:49:00" secid="USD/RUB" rate="88.79600" clearing="vk" />
+<row tradedate="2024-08-15" tradetime="13:45:00" secid="USD/RUB" rate="90.00550" clearing="pk" />
+<row tradedate="2024-08-14" tradetime="18:49:00" secid="USD/RUB" rate="90.00550" clearing="vk" />
+<row tradedate="2024-08-14" tradetime="13:45:00" secid="USD/RUB" rate="92.65920" clearing="pk" />
+<row tradedate="2024-08-13" tradetime="18:49:00" secid="USD/RUB" rate="92.65920" clearing="vk" />
+<row tradedate="2024-08-13" tradetime="13:45:00" secid="USD/RUB" rate="89.94750" clearing="pk" />
+<row tradedate="2024-08-12" tradetime="18:49:00" secid="USD/RUB" rate="89.94750" clearing="vk" />
+<row tradedate="2024-08-12" tradetime="13:45:00" secid="USD/RUB" rate="87.99200" clearing="pk" />
+<row tradedate="2024-08-09" tradetime="18:49:00" secid="USD/RUB" rate="86.56210" clearing="vk" />
+<row tradedate="2024-08-09" tradetime="13:45:00" secid="USD/RUB" rate="86.56210" clearing="pk" />
+<row tradedate="2024-08-08" tradetime="18:49:00" secid="USD/RUB" rate="86.56210" clearing="vk" />
+<row tradedate="2024-08-08" tradetime="13:45:00" secid="USD/RUB" rate="85.95430" clearing="pk" />
+<row tradedate="2024-08-07" tradetime="18:49:00" secid="USD/RUB" rate="85.95430" clearing="vk" />
+<row tradedate="2024-08-07" tradetime="13:45:00" secid="USD/RUB" rate="85.16460" clearing="pk" />
+<row tradedate="2024-08-06" tradetime="18:49:00" secid="USD/RUB" rate="85.16460" clearing="vk" />
+<row tradedate="2024-08-06" tradetime="13:45:00" secid="USD/RUB" rate="84.94710" clearing="pk" />
+<row tradedate="2024-08-05" tradetime="18:49:00" secid="USD/RUB" rate="84.94710" clearing="vk" />
+<row tradedate="2024-08-05" tradetime="13:45:00" secid="USD/RUB" rate="85.70240" clearing="pk" />
+<row tradedate="2024-08-02" tradetime="18:49:00" secid="USD/RUB" rate="85.70240" clearing="vk" />
+<row tradedate="2024-08-02" tradetime="13:45:00" secid="USD/RUB" rate="85.78330" clearing="pk" />
+<row tradedate="2024-08-01" tradetime="18:49:00" secid="USD/RUB" rate="85.78330" clearing="vk" />
+<row tradedate="2024-08-01" tradetime="13:45:00" secid="USD/RUB" rate="86.10910" clearing="pk" />
+<row tradedate="2024-07-31" tradetime="18:49:00" secid="USD/RUB" rate="86.10910" clearing="vk" />
+<row tradedate="2024-07-31" tradetime="13:45:00" secid="USD/RUB" rate="86.33000" clearing="pk" />
+<row tradedate="2024-07-30" tradetime="18:49:00" secid="USD/RUB" rate="86.33000" clearing="vk" />
+<row tradedate="2024-07-30" tradetime="13:45:00" secid="USD/RUB" rate="86.55540" clearing="pk" />
+<row tradedate="2024-07-29" tradetime="18:49:00" secid="USD/RUB" rate="86.55540" clearing="vk" />
+<row tradedate="2024-07-29" tradetime="13:45:00" secid="USD/RUB" rate="85.56500" clearing="pk" />
+<row tradedate="2024-07-26" tradetime="18:49:00" secid="USD/RUB" rate="85.56500" clearing="vk" />
+<row tradedate="2024-07-26" tradetime="13:45:00" secid="USD/RUB" rate="85.41000" clearing="pk" />
+<row tradedate="2024-07-25" tradetime="18:49:00" secid="USD/RUB" rate="85.41000" clearing="vk" />
+<row tradedate="2024-07-25" tradetime="13:45:00" secid="USD/RUB" rate="86.55020" clearing="pk" />
+<row tradedate="2024-07-24" tradetime="18:49:00" secid="USD/RUB" rate="86.55020" clearing="vk" />
+<row tradedate="2024-07-24" tradetime="13:45:00" secid="USD/RUB" rate="87.29900" clearing="pk" />
+<row tradedate="2024-07-23" tradetime="18:49:00" secid="USD/RUB" rate="87.29900" clearing="vk" />
+<row tradedate="2024-07-23" tradetime="13:45:00" secid="USD/RUB" rate="87.78050" clearing="pk" />
+<row tradedate="2024-07-22" tradetime="18:49:00" secid="USD/RUB" rate="87.78050" clearing="vk" />
+<row tradedate="2024-07-22" tradetime="13:45:00" secid="USD/RUB" rate="88.02060" clearing="pk" />
+<row tradedate="2024-07-19" tradetime="18:49:00" secid="USD/RUB" rate="88.02060" clearing="vk" />
+<row tradedate="2024-07-19" tradetime="13:45:00" secid="USD/RUB" rate="87.87540" clearing="pk" />
+<row tradedate="2024-07-18" tradetime="18:49:00" secid="USD/RUB" rate="87.87540" clearing="vk" />
+<row tradedate="2024-07-18" tradetime="13:45:00" secid="USD/RUB" rate="88.08720" clearing="pk" />
+<row tradedate="2024-07-17" tradetime="18:49:00" secid="USD/RUB" rate="88.08720" clearing="vk" />
+<row tradedate="2024-07-17" tradetime="13:45:00" secid="USD/RUB" rate="88.28240" clearing="pk" />
+<row tradedate="2024-07-16" tradetime="18:49:00" secid="USD/RUB" rate="88.28240" clearing="vk" />
+<row tradedate="2024-07-16" tradetime="13:45:00" secid="USD/RUB" rate="87.80770" clearing="pk" />
+</rows>
+</data>
+</document>
